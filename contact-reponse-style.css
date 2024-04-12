@@ -1,0 +1,32 @@
+body {
+    font-family:"Archia", sans-serif;
+}
+.back-img {
+    background-image: url('medias/jet_int.jpg');
+    background-size: cover;
+}
+.nav-button {
+    padding: 15px 30px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    border-color: #ffffff;
+    border-style : solid;
+    margin:8px;
+}
+.model-title {
+    padding: 60px 0 30px 0;
+    margin: 0;
+    font-size: 30px;
+    font-weight: lighter;
+}
+.message-afficher {
+margin-top: 60px;
+    color: #ffffff;
+}
+#retour-home-text {
+    color: #ffffff;
+    margin: 30px 0;
+}
+.verify-icon {
+    color: #ffffff;
+}

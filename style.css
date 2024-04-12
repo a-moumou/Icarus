@@ -1,0 +1,126 @@
+body {
+    font-family:"Archia", sans-serif;
+}
+.header {
+    height: 100vh;
+    width: 100%;
+}
+#logo {
+    margin-left: 50px;
+    font-size: 50px;
+    font-weight: 500;
+    color: #d4a373;
+}
+#menu {
+    margin-right: 50px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    padding: 8px;
+}
+#menu .nav-link {
+    color: #ffffff;
+    font-size: 16px;
+    padding: 12px 20px;
+    margin: 0 3px;
+    border-radius: 15px;
+    transition : all 0.8s;
+}
+#menu .nav-link:hover {
+    background-color: #d4a373;
+}
+#image-header {
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    position: absolute;
+}
+.titre {
+    color: #ffffff;
+}
+.titre h1 {
+    font-size: 60px;
+}
+.nav-button {
+    padding: 15px 30px;
+    background-color: #d4a373;
+    border-radius: 15px;
+    border-color: #d4a373;
+    border-style : solid;
+    margin:8px;
+}
+.header-text {
+    position: relative;
+    margin-top: 150px;
+}
+.model-img {
+    width: 150px;
+}
+.model {
+    background-color: #faedcd;
+    margin: 0px 50px 25px 50px;
+    padding: 15px 0;
+    border-radius: 15px;
+}
+.model-text {
+    color: #d4a373;
+    font-size: 15px;
+}
+.model-title {
+    padding: 60px 0 30px 0;
+    margin: 0;
+    color: #d4a373;
+    font-size: 25px;
+}
+.a-propos-img {
+    width: 350px;
+    height: 233px;
+    margin-bottom: 40px;
+    border-radius: 8px;
+
+}
+.a-propos-title {
+    text-align: left;
+    margin: 0;
+    color: #d4a373;
+}
+.a-propos-text {
+    padding-top: 30px;
+    text-align: left;
+}
+#text2 {
+    margin-bottom: 30px;
+}
+.bg-image {
+    background-image: url('medias/jet_int.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#contact-title{
+    color: #d4a373;
+    font-weight: 600;
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+#message {
+    height: 10rem;
+}
+#submitButton {
+    color: black;
+    background-color: #d4a373;
+    border-radius: 15px;
+    border-color: #d4a373;
+    border-style : solid;
+}
+.footer-element {
+    margin: 30px 20px 10px 20px;
+}
+#copyrignt {
+    color: #ffffff;
+}
+#page {
+    margin-top: 30px;
+}
+#footer {
+     background-color: #d4a373;
+ }
